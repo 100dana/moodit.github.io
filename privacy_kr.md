@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # 개인정보 처리방침
 
 최종 수정일: 2026년 6월 23일
